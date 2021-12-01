@@ -1,6 +1,6 @@
 {
   "display_name": "Java, Approval",
-  "image_name": "cyberdojofoundation/java_approval:9b6f72e",
+  "image_name": "cyberdojofoundation/java_approval:a979a66",
   "visible_filenames": [
     "Hiker.java",
     "HikerTest.java",
