@@ -2,14 +2,14 @@ import org.junit.jupiter.api.*;
 
 import org.approvaltests.Approvals;
 import org.approvaltests.reporters.UseReporter;
-import org.approvaltests.reporters.JunitReporter;
+import org.approvaltests.reporters.linux.ReportOnCyberDojo;
 
-@UseReporter(JunitReporter.class)
+@UseReporter(ReportOnCyberDojo.class)
 class HikerTest {
 
     @Test
     void hhgttg() throws Exception {
         int actual = Hiker.answer();
-        Approvals.verify("" + actual);
+        Approvals.verify(actual);
     }
 }
