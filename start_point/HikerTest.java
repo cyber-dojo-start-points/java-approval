@@ -8,8 +8,8 @@ import org.approvaltests.reporters.linux.ReportOnCyberDojo;
 class HikerTest {
 
     @Test
-    void hhgttg() throws Exception {
+    void testAnswer() throws Exception {
         int actual = Hiker.answer();
-        Approvals.verify(actual);
+        Approvals.verify("the answer is: " + actual);
     }
 }
