@@ -11,6 +11,6 @@
     ".java",
     ".txt"
   ],
-  "max_seconds": 10,
+  "max_seconds": 15,
   "tab_size": 4
 }
