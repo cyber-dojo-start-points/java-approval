@@ -1,5 +1,5 @@
 {
-  "display_name": "Java, Approval",
+  "display_name": "Java 17, Approval",
   "image_name": "cyberdojofoundation/java_approval:cb6c460",
   "visible_filenames": [
     "Hiker.java",
@@ -11,6 +11,6 @@
     ".java",
     ".txt"
   ],
-  "max_seconds": 15,
+  "max_seconds": 10,
   "tab_size": 4
 }
