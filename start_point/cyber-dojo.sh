@@ -11,7 +11,7 @@ cp -r /approval /tmp
 CLASSES=.:`ls /tmp/approval/*.jar | tr '\n' ':'`
 
 if javac --enable-preview \
-  --release 17 \
+  --release 18 \
   -Xlint:preview \
   -Xlint:unchecked \
   -Xlint:deprecation \
