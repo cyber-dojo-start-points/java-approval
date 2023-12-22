@@ -11,14 +11,14 @@ cp -r /approval /tmp
 CLASSES=.:`ls /tmp/approval/*.jar | tr '\n' ':'`
 
 if javac --enable-preview \
-  --release 18 \
+  --release 21 \
   -Xlint:preview \
   -Xlint:unchecked \
   -Xlint:deprecation \
   -cp $CLASSES \
   *.java;
 then
-  java --enable-preview -jar /approval/junit-platform-console-standalone-1.8.2.jar \
+  java --enable-preview -jar /approval/junit-platform-console-standalone-1.10.1.jar \
       --disable-banner \
       --disable-ansi-colors \
       --details=tree \

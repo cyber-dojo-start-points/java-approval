@@ -1,6 +1,6 @@
 {
-  "display_name": "Java 18, Approval",
-  "image_name": "cyberdojofoundation/java_approval:101ad11",
+  "display_name": "Java 21, Approval 22 with JUnit 5",
+  "image_name": "cyberdojofoundation/java_approval:412455a",
   "visible_filenames": [
     "Hiker.java",
     "HikerTest.java",
