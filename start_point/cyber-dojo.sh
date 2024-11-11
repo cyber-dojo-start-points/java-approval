@@ -18,7 +18,7 @@ if javac --enable-preview \
   -cp $CLASSES \
   *.java;
 then
-  java --enable-preview -jar /approval/junit-platform-console-standalone-1.10.1.jar \
+  java --enable-preview -jar /approval/junit-platform-console-standalone-1.11.3.jar \
       --disable-banner \
       --disable-ansi-colors \
       --details=tree \

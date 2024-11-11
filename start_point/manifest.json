@@ -1,6 +1,6 @@
 {
-  "display_name": "Java 21, Approval 22 with JUnit 5",
-  "image_name": "cyberdojofoundation/java_approval:412455a",
+  "display_name": "Java 21, Approval 24.9 with JUnit 5",
+  "image_name": "ghcr.io/cyber-dojo-languages/java_approval:e2178d4",
   "visible_filenames": [
     "Hiker.java",
     "HikerTest.java",
