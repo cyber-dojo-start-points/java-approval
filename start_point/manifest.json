@@ -1,12 +1,13 @@
 {
   "display_name": "Java 21, Approval 24.9 with JUnit 5",
-  "image_name": "ghcr.io/cyber-dojo-languages/java_approval:e2178d4",
+  "image_name": "ghcr.io/cyber-dojo-languages/java_approval:4015dc6",
   "visible_filenames": [
     "Hiker.java",
     "HikerTest.java",
     "cyber-dojo.sh",
     "HikerTest.testAnswer.approved.txt"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".java",
     ".txt"
