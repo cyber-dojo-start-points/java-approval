@@ -1,5 +1,13 @@
 {
   "display_name": "Java 21, Approval 24.9 with JUnit 5",
+  "language": [
+    "Java",
+    "21"
+  ],
+  "test_framework": [
+    "Approval",
+    "24.9"
+  ],
   "image_name": "ghcr.io/cyber-dojo-languages/java_approval:4015dc6",
   "visible_filenames": [
     "Hiker.java",
