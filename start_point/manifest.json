@@ -8,7 +8,7 @@
     "Approval",
     "31.0.0"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/java_approval:1104f09",
+  "image_name": "ghcr.io/cyber-dojo-languages/java_approval:459c189",
   "visible_filenames": [
     "Hiker.java",
     "HikerTest.java",
