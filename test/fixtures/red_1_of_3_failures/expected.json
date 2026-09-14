@@ -1,0 +1,14 @@
+{
+  "match_counts": {
+    "testAnswer\\(\\) \\[OK\\]$": 1,
+    "testAnswerIsEven\\(\\) \\[OK\\]$": 1,
+    "testName\\(\\) \\[X\\] expected: <the hiker is called: Zaphod Beeblebrox$": 1,
+    "> but was: <the hiker is called: Arthur Dent$": 2,
+    "^Failures \\(1\\):$": 1,
+    "^\\[ +3 tests found +\\]$": 1,
+    "^\\[ +2 tests successful +\\]$": 1,
+    "^\\[ +1 tests failed +\\]$": 1,
+    "^\\[ +0 containers failed +\\]$": 1
+  },
+  "truncated": false
+}

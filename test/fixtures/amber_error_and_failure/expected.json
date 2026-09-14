@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^ +=> java\\.lang\\.ArithmeticException: / by zero$": 1,
+    "testAnswerSize\\(\\) \\[X\\] expected: <the answer is this many digits long: 3$": 1,
+    "> but was: <the answer is this many digits long: 2$": 2,
+    "^\\[ +1 containers failed +\\]$": 1,
+    "^\\[ +1 tests failed +\\]$": 1
+  },
+  "truncated": false
+}

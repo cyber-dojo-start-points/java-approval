@@ -1,0 +1,12 @@
+{
+  "match_counts": {
+    " \\[X\\] expected: <": 3,
+    "To approve run : mv -f /sandbox/HikerTest\\.[A-Za-z]+\\.received\\.txt /sandbox/HikerTest\\.[A-Za-z]+\\.approved\\.txt$": 3,
+    "^Failures \\(3\\):$": 1,
+    "^\\[ +3 tests found +\\]$": 1,
+    "^\\[ +0 tests successful +\\]$": 1,
+    "^\\[ +3 tests failed +\\]$": 1,
+    "^\\[ +0 containers failed +\\]$": 1
+  },
+  "truncated": false
+}

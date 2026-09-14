@@ -1,0 +1,13 @@
+{
+  "match_counts": {
+    "testNameSize\\(\\) \\[X\\] expected: <the name is this many letters long: 12$": 1,
+    "> but was: <the name is this many letters long: 11$": 2,
+    "^Failures \\(1\\):$": 1,
+    "^Test run finished after [0-9]+ ms$": 1,
+    "^\\[ +4 tests found +\\]$": 1,
+    "^\\[ +3 tests successful +\\]$": 1,
+    "^\\[ +1 tests failed +\\]$": 1,
+    "^\\[ +0 containers failed +\\]$": 1
+  },
+  "truncated": false
+}

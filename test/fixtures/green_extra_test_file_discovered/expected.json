@@ -1,0 +1,12 @@
+{
+  "max_output_lines": 30,
+  "match_counts": {
+    "AnswerSizeTest \\[OK\\]$": 1,
+    "testAnswerSize\\(\\) \\[OK\\]$": 1,
+    "testAnswer\\(\\) \\[OK\\]$": 1,
+    "^\\[ +2 tests found +\\]$": 1,
+    "^\\[ +2 tests successful +\\]$": 1,
+    "^\\[ +0 tests failed +\\]$": 1
+  },
+  "truncated": false
+}

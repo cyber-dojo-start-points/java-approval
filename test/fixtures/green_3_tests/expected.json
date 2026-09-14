@@ -1,0 +1,13 @@
+{
+  "max_output_lines": 30,
+  "match_counts": {
+    "testAnswer\\(\\) \\[OK\\]$": 1,
+    "testAnswerIsEven\\(\\) \\[OK\\]$": 1,
+    "testName\\(\\) \\[OK\\]$": 1,
+    "^\\[ +3 tests found +\\]$": 1,
+    "^\\[ +3 tests successful +\\]$": 1,
+    "^\\[ +0 tests failed +\\]$": 1,
+    "^\\[ +0 containers failed +\\]$": 1
+  },
+  "truncated": false
+}

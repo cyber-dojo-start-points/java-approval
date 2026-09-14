@@ -1,0 +1,13 @@
+{
+  "match_counts": {
+    "testAnswer\\(\\) \\[OK\\]$": 1,
+    "testAnswerSize\\(\\) \\[X\\] expected: <the answer is this many digits long: 3$": 1,
+    "> but was: <the answer is this many digits long: 2$": 2,
+    "^Failures \\(1\\):$": 1,
+    "^\\[ +2 tests found +\\]$": 1,
+    "^\\[ +1 tests successful +\\]$": 1,
+    "^\\[ +1 tests failed +\\]$": 1,
+    "^\\[ +0 containers failed +\\]$": 1
+  },
+  "truncated": false
+}

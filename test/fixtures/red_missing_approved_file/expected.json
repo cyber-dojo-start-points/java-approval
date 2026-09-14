@@ -1,0 +1,13 @@
+{
+  "match_counts": {
+    "To approve run : mv -f /sandbox/HikerTest\\.testAnswer\\.received\\.txt /sandbox/HikerTest\\.testAnswer\\.approved\\.txt$": 1,
+    "testAnswer\\(\\) \\[X\\] expected: <$": 1,
+    "> but was: <the answer is: 42$": 2,
+    "^Failures \\(1\\):$": 1,
+    "^\\[ +1 tests found +\\]$": 1,
+    "^\\[ +0 tests successful +\\]$": 1,
+    "^\\[ +1 tests failed +\\]$": 1,
+    "^\\[ +0 containers failed +\\]$": 1
+  },
+  "truncated": false
+}
