@@ -1,6 +1,6 @@
 [![GitHub CI](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml)
 
-### display_name="Java 26.0, Approval 31.0 with JUnit 6.1"
+### display_name="Java 27, Approval 31.0.0 with JUnit 6.1"
 ### image_name=[ghcr.io/cyber-dojo-languages/java_approval](https://github.com/cyber-dojo-languages/java-approval/pkgs/container/java_approval)
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)
