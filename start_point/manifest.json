@@ -1,14 +1,14 @@
 {
-  "display_name": "Java 27.0.1.0.3, Approval 32.2.0 with JUnit 6.1",
+  "display_name": "Java 27.0.1.1, Approval 32.2.0 with JUnit 6.1",
   "language": [
     "Java",
-    "27.0.1.0.3"
+    "27.0.1.1"
   ],
   "test_framework": [
     "Approval",
     "32.2.0"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/java_approval:108ecc0@sha256:ac30e424867776b9b41e28f561cefaf8534554b9c3d65d12fff8da40f6ca661b",
+  "image_name": "ghcr.io/cyber-dojo-languages/java_approval:d2b4fa2@sha256:fada73a5f4d5827ababfb23a34768e0c439b104d4d229fe9eef64dd1ccfacaf4",
   "visible_filenames": [
     "Hiker.java",
     "HikerTest.java",
